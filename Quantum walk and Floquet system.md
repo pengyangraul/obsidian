@@ -1,4 +1,4 @@
-## Boundary modes in quantum walk with AZ symmetries 
+# 1. Boundary modes in quantum walk with AZ symmetries 
 - To consider the boundary modes, we decompose the $d$ dimensional quantum walk with gapped bulk as
 $$
 U(\boldsymbol{k})  = U_{bulk}(\boldsymbol{k})\oplus U_{boundary}(\boldsymbol{k_\parallel}),
@@ -16,12 +16,11 @@ $$
 \Gamma U_{boundary}, & \mathrm{chiral}\  U_{boundary}.
   \end{cases}
 $$
-			Here $H_U(\boldsymbol{k}_\parallel)$ is a gapless Hamiltonian of a $(d-1)$ dimension, and can be regarded as the boundary of a $d$ dimensional Hamiltonian in the symmetry class shifted by 1 from the symmetry class of $U_{boundary}$. Hence, the classfication of $U_{boundary}$  in $(d-1)$ dimension is the same as the classification of hermitian matrices in $d$ dimension, in the same symmetry class. This gives the same classification as obtained in 1) at a gap.
-   
-## Boundary modes in quantum walk with additional crystalline symmetries 
+Here $H_U(\boldsymbol{k}_\parallel)$ is a gapless Hamiltonian of a $(d-1)$ dimension, and can be regarded as the boundary of a $d$ dimensional Hamiltonian in the symmetry class shifted by 1 from the symmetry class of $U_{boundary}$. Hence, the classfication of $U_{boundary}$  in $(d-1)$ dimension is the same as the classification of hermitian matrices in $d$ dimension, in the same symmetry class. This gives the same classification as obtained in 1) at a gap.
+# 2. Boundary modes in quantum walk with additional crystalline symmetries 
 
 
-## Bulk and intrinsic boundary modes
+## 2.1. Bulk and intrinsic boundary modes
 - Bulk K group series: 
 $$
 K^{(d)}\subseteq \dots \subseteq K''\subseteq K'\subseteq K
